@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning a lot of new things.
 
-
+***
 
 - 📫 How to reach me: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) ***or*** [![Buymeacoffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://https://www.buymeacoffee.com/)
 
