@@ -21,12 +21,17 @@
 ***
 
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=SvenScharfe&theme=highcontrast)
+
+
+![](https://komarev.com/ghpvc/?username=SvenScharfe)
+
+
+***
+
+
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
-
-
-
-
 
